@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UK36/LUFFY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/UK36/LUFFY/tree/master/0046-permutations) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/UK36/LUFFY/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
