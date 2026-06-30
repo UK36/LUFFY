@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/UK36/LUFFY/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/UK36/LUFFY/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
