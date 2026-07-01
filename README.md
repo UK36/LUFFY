@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/UK36/LUFFY/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/UK36/LUFFY/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/UK36/LUFFY/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/UK36/LUFFY/tree/master/0724-find-pivot-index) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/UK36/LUFFY/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/UK36/LUFFY/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/UK36/LUFFY/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
