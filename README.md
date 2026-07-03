@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/UK36/LUFFY/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/UK36/LUFFY/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/UK36/LUFFY/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
@@ -72,9 +73,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
