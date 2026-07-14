@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UK36/LUFFY/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/UK36/LUFFY/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/UK36/LUFFY/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/UK36/LUFFY/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UK36/LUFFY/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/UK36/LUFFY/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/UK36/LUFFY/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/UK36/LUFFY/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
 ## Trie
 |  |
