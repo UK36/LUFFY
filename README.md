@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UK36/LUFFY/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UK36/LUFFY/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
