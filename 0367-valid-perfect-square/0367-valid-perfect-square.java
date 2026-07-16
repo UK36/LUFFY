@@ -1,11 +1,11 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
-        if (num < 2) return true;   // 0 and 1 are perfect squares
+        if (num < 2) return true;   
 
         int s = 2, e = num / 2;
 
         while (s <= e) {
-            long mid = s + (e - s) / 2;   // use long to avoid overflow in mid*mid
+            long mid = s + (e - s) / 2;   
             long square = mid * mid;
 
             if (square == num) {
