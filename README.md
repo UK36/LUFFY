@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/UK36/LUFFY/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/UK36/LUFFY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/UK36/LUFFY/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
