@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/UK36/LUFFY/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/UK36/LUFFY/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UK36/LUFFY/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/UK36/LUFFY/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UK36/LUFFY/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/UK36/LUFFY/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/UK36/LUFFY/tree/master/0367-valid-perfect-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/UK36/LUFFY/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/UK36/LUFFY/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
