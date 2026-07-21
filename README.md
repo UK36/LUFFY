@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/UK36/LUFFY/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/UK36/LUFFY/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/UK36/LUFFY/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/UK36/LUFFY/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/UK36/LUFFY/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/UK36/LUFFY/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/UK36/LUFFY/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/UK36/LUFFY/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/UK36/LUFFY/tree/master/0085-maximal-rectangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/UK36/LUFFY/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
