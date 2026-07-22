@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/UK36/LUFFY/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/UK36/LUFFY/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/UK36/LUFFY/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/UK36/LUFFY/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/UK36/LUFFY/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
 ## Trie
 |  |
