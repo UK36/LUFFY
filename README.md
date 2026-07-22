@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/UK36/LUFFY/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/UK36/LUFFY/tree/master/0441-arranging-coins) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/UK36/LUFFY/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/UK36/LUFFY/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/UK36/LUFFY/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/UK36/LUFFY/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
