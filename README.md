@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/UK36/LUFFY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/UK36/LUFFY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/UK36/LUFFY/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UK36/LUFFY/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/UK36/LUFFY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/UK36/LUFFY/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/UK36/LUFFY/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/UK36/LUFFY/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/UK36/LUFFY/tree/master/0415-add-strings) |
