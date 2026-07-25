@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/UK36/LUFFY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UK36/LUFFY/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2965-find-missing-and-repeated-values](https://github.com/UK36/LUFFY/tree/master/2965-find-missing-and-repeated-values) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
+| [2965-find-missing-and-repeated-values](https://github.com/UK36/LUFFY/tree/master/2965-find-missing-and-repeated-values) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/UK36/LUFFY/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/UK36/LUFFY/tree/master/0441-arranging-coins) |
+| [2965-find-missing-and-repeated-values](https://github.com/UK36/LUFFY/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/UK36/LUFFY/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/UK36/LUFFY/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
