@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/UK36/LUFFY/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/UK36/LUFFY/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/UK36/LUFFY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/UK36/LUFFY/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/UK36/LUFFY/tree/master/0367-valid-perfect-square) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UK36/LUFFY/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/UK36/LUFFY/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/UK36/LUFFY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/UK36/LUFFY/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/UK36/LUFFY/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
