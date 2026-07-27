@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/UK36/LUFFY/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/UK36/LUFFY/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/UK36/LUFFY/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/UK36/LUFFY/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/UK36/LUFFY/tree/master/0367-valid-perfect-square) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/UK36/LUFFY/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/UK36/LUFFY/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/UK36/LUFFY/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/UK36/LUFFY/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/UK36/LUFFY/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/UK36/LUFFY/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UK36/LUFFY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
