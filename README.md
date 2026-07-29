@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/UK36/LUFFY/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/UK36/LUFFY/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/UK36/LUFFY/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/UK36/LUFFY/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/UK36/LUFFY/tree/master/0412-fizz-buzz) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UK36/LUFFY/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/UK36/LUFFY/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/UK36/LUFFY/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/UK36/LUFFY/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/UK36/LUFFY/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UK36/LUFFY/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/UK36/LUFFY/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
