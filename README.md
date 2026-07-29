@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UK36/LUFFY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/UK36/LUFFY/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/UK36/LUFFY/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/UK36/LUFFY/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/UK36/LUFFY/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/UK36/LUFFY/tree/master/0867-transpose-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/UK36/LUFFY/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/UK36/LUFFY/tree/master/0645-set-mismatch) |
 | [2965-find-missing-and-repeated-values](https://github.com/UK36/LUFFY/tree/master/2965-find-missing-and-repeated-values) |
 | [3843-first-element-with-unique-frequency](https://github.com/UK36/LUFFY/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/UK36/LUFFY/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/UK36/LUFFY/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/UK36/LUFFY/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/UK36/LUFFY/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/UK36/LUFFY/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/UK36/LUFFY/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/UK36/LUFFY/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
