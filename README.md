@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/UK36/LUFFY/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/UK36/LUFFY/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/UK36/LUFFY/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/UK36/LUFFY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/UK36/LUFFY/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/UK36/LUFFY/tree/master/0036-valid-sudoku) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/UK36/LUFFY/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/UK36/LUFFY/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UK36/LUFFY/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/UK36/LUFFY/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/UK36/LUFFY/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/UK36/LUFFY/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/UK36/LUFFY/tree/master/0202-happy-number) |
